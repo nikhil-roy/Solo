@@ -6,4 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".Canvas">
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Data"
+        android:gravity="center"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="75dp"
+        tools:ignore="MissingConstraints" />
 </android.support.constraint.ConstraintLayout>
